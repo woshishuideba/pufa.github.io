@@ -1,2 +1,6 @@
 theme: Hexo
 remote_theme: Hexo
+deploy:
+  type: git
+  repository: https://github.com/woshishuideba/pufa.github.io
+  branch: master
